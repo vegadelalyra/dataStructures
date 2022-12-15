@@ -58,5 +58,5 @@ myHashTable.getAllKeys
 myHashTable.delete('Diegoa')
 myHashTable.delete('Diego')
 myHashTable.set('Diego', 1990)
-
+console.log(_________________________________________________________________)
 export default HashTable
